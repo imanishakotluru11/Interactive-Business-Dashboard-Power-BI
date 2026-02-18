@@ -21,6 +21,3 @@ Dashboard Design
 Business Intelligence Reporting
 Author
 Imanisha Kotluru
-
-
-If you want, I can also format it in a more professional portfolio style to impress recruiters 🚀
